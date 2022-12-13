@@ -57,6 +57,7 @@ PACKAGE_INSTALL_REQUIRES = [
     # e.g.
     # 'package',
     # 'otherpackage>=1,<2'
+    "pywin32 >= 1.0; platform_system=='Windows'",
 ]
 
 # Add any third party packages you use in requirements for optional features of your package here
