@@ -14,7 +14,27 @@
   "applied_templates": [
     {
       "name": "copier-pypi-sphinx-flexlate",
-      "data": {},
+      "data": {
+        "package_name": "multivenv-test-package",
+        "package_directory": "multivenv_test_package",
+        "full_name": "Multivenv Test Package",
+        "repo_name": "multivenv-test-package",
+        "repo_username": "nickderobertis",
+        "short_description": "A package to use as test data for testing the multivenv package",
+        "main_branch_name": "main",
+        "package_author": "Nick DeRobertis",
+        "author_email": "derobertis.nick@gmail.com",
+        "google_analytics_id": "",
+        "os_support": [
+          "ubuntu",
+          "macos",
+          "windows"
+        ],
+        "minimum_python_version": "3.8",
+        "topics": [],
+        "logo_url": "",
+        "install_packages": ""
+      },
       "version": "e28bb5e7c92790ead4f2d238cb04edfc1463f180",
       "add_mode": "local",
       "root": "."
