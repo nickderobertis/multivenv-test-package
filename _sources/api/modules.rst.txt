@@ -1,0 +1,7 @@
+multivenv_test_package
+======================
+
+.. toctree::
+   :maxdepth: 4
+
+   multivenv_test_package

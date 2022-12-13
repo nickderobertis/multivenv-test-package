@@ -1,0 +1,7 @@
+multivenv\_test\_package package
+================================
+
+.. automodule:: multivenv_test_package
+   :members:
+   :undoc-members:
+   :show-inheritance:
